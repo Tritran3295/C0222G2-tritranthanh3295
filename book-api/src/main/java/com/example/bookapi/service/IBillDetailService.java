@@ -1,2 +1,4 @@
-package com.example.bookapi.service;public interface IBillDetailService {
+package com.example.bookapi.service;
+
+public interface IBillDetailService {
 }

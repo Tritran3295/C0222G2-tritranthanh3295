@@ -1,2 +1,4 @@
-package com.example.bookapi.service;public interface IPromotionService {
+package com.example.bookapi.service;
+
+public interface IPromotionService {
 }
